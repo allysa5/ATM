@@ -9,7 +9,7 @@ public class Account implements iATM{
 		this.name = "tom";
 		this.pin = 1234;
 		this.acctnum = 7525;
-		this.balance = 100.0;
+		this.balance = 2000.0;
 
 	}
 	public String getName() {
